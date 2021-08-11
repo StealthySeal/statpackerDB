@@ -1,0 +1,21 @@
+brand,model,weight_OZ,steelType,length_in,bladeLength_IN,bladeThickness_IN,edgeType,tipType,handleMaterial,handleLength,color,lockType,openingType,multipleVersionsAvailable
+CRKT,Squid,3.5,8Cr13Mov,5.7,2.16,0.11,single,Drop Point,Stainless Steel w/Stonewash,3.54,SilverBlack,Frame lock,Manual,TRUE
+CRKT,Piet,2.5,8Cr13Mov,6.44,2.69,0.13,single,Drop Point,Glass Reinforce Fiber Polyamide,,Silver,Liner Lock,Manual,FALSE
+CRKT,Razelcliffe Compact,3.3,8Cr13MoV,5.25,2.09,0.11,single,Wharncliffe,2Cr13,3.16,Black,Frame lock,Manual,FALSE
+Kershaw,Decimus,4.3,8Cr13MoV,7.5,3.25,0,single,Spear Point,Aluminum Glass Nylon,4.25,SilverBlack,Frame lock,Assisted,FALSE
+Kershaw,Airlock,3,4Cr13,7.25,3,0.10,single,Clip Point,Stainless Steel,4.25,Black,Linear lock,Assisted,FALSE
+Kershaw,Al-Mar AM3,2.3,8Cr13MoV,6.875,3,0.11,single,Spear Point,G-10,3.875,Black,Frame lock,Assisted,TRUE
+Kershaw,Al-Mar AM4,3.02,8Cr13MoV ,7.625,3.5,0.11,single,Spear Point,G-10,4.125,Black,Frame lock,Assisted,TRUE
+Kershaw,Al-Mar AM5,3.65,8Cr13MoV ,7.5,3.5,0.11,single,Spear Point,G-10,4.25,Black,Frame lock,Assisted,FALSE
+Kershaw,Anso Aftereffect,2.1,8Cr13MoV,4.75,1.7,0.1,single,Drop Point,FRN,3,Black,Linear lock,Manual,FALSE
+Kershaw,Amplitude 2.5,2.45,8Cr13MoV,6,2.5,0.09,single,Drop Point,Stainless Steel,3.5,Gray,Frame Lock,Assisted,FALSE
+Kershaw,Anso Fraxion,2,8Cr13MoV,6.75,2.75,0.11,single,Clip Point,G-10,4,Black,Liner Lock,Manual,TRUE
+Kershaw,Antic,3.1,8Cr13MoV,5.5,1.75,0.11,single,Drop Point,Stainless Steel,3.75,Blue,Frame Lock,Manual,FALSE
+Morakniv,"Morakniv Basic 511 Fixed Blade Knife Black/OD Green (3.5"" Satin)",2.79,High Carbon Steel,8,3.5,0.08,single,Clip Point,Polymer,4.625,BlackOD Green,0,Fixed,TRUE
+Morakniv,Bushcraft Fixed Blade Knife,7.2,High Carbon Steel,9.25,4.25,0.125,single,Drop Point,Polymer,5,Black,0,Fixed,TRUE
+Morakniv,Bushcraft Survival,3.8,Stainless Steel,9.25,4.25,0.1,single,Clip Point,Polymer,5,Orange,0,Fixed,FALSE
+Benchmade,Autocrat,3.93,CPM-S30V,8.75,3.71,0.1,double,Dagger,G-10,5.04,Black,0,Automatic,TRUE
+Gerber,Airfoil,2.28,7Cr17MoV,6.625,2.75,0.11,single,Drop Point,Aluminum,3.875,Blue,Liner Lock,Manual,FALSE
+Spyderco,Para 3,3.4,CPM-S30V,7.27,3,0.15,single,Clip Point,G-10,4.27,Black,Compression Lock,Manual,TRUE
+Benchmade,Bailout AXIS,2.7,CPM-M4,8.07,3.38,0.09,single,Tanto,G-10,4.7,Green,Axis,Assisted,TRUE
+Spyderco,BaliYo Butterfly Flipper,0.85,Other,4.25,4.25,0,Pen,Pen,Polymer,4.25,Black,Twist,Manual,FALSE
